@@ -12,7 +12,7 @@ Spelplanen består av ett rutnät där vissa rutor innehåller minor. För varje
 - Om rutan inte innehåller en mina, men gränsar till minst en ruta som innehåller en mina, visas istället en siffra som talar om hur många minor det finns sammanlagt i de åtta omkringliggande rutorna. Med hjälp av dessa siffror kan man räkna ut vilka rutor som innehåller minor, och vilka som inte gör det.
 - Extra: Om rutan inte gränsar till någon mina alls visas ingen siffra och alla okända omkringliggande rutor avslöjas automatiskt på samma sätt som när man klickar på dem. Detta innebär att ett enda klick ibland kan avslöjar stora områden där minor saknas.
 
-Vinner gör man när alla rutor, som inte innehåller minor, har avslöjats.
+Vinner gör man när alla rutor, som inte innehåller minor, har avslöjats :bomb: :call_me_hand:
 
 ## Markera minorna med flaggor ⚑
 Genom att studera siffrorna som anger hur många minor rutorna gränsar till kan man räkna ut vilka rutor som innehåller minor. För att lättare hålla reda på var minorna är kan rutorna markeras med flaggor. 
