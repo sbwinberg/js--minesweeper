@@ -20,7 +20,7 @@ Flaggorna kan placeras ut (och tas bort) genom att högerklicka på rutorna med 
 
 ## Olika spellägen
 
-En vidareutveckling är att en användare kan välja en av följande spellägen
+En vidareutveckling är att en användare kan välja en av följande spellägen:
 
 - Ett litet minfält består av minst 64 rutor och 16 % minor.
 - Ett mellanstort minfält består av minst 256 rutor och 18 % minor.
