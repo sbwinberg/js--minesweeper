@@ -18,5 +18,13 @@ Vinner gör man när alla rutor, som inte innehåller minor, har avslöjats.
 Genom att studera siffrorna som anger hur många minor rutorna gränsar till kan man räkna ut vilka rutor som innehåller minor. För att lättare hålla reda på var minorna är kan rutorna markeras med flaggor. 
 Flaggorna kan placeras ut (och tas bort) genom att högerklicka på rutorna med muspekaren. 
 
+## Olika modes
+
+Det finns även tre olika topplistor beroende på hur stort minfält som används.
+
+- Ett litet minfält består av minst 64 rutor och 16 % minor.
+- Ett mellanstort minfält består av minst 256 rutor och 18 % minor.
+- Ett stort minfält består av minst 576 rutor och 21 % minor.
+
 ## Exempelbild 
-MS RÖJ small size 10x10 (https://github.com/chasacademy-sandra-larsson/js--minesweeper/blob/main/minesweeper.gif)
+MS RÖJ small size 8x8 (https://github.com/chasacademy-sandra-larsson/js--minesweeper/blob/main/minesweeper.gif)
