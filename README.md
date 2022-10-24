@@ -27,4 +27,4 @@ En vidareutveckling är att en användare kan välja en av följande spellägen:
 - Ett stort minfält består av minst 576 rutor och 21 % minor.
 
 ## Exempelbild 
-MS RÖJ small size 8x8 (https://github.com/chasacademy-sandra-larsson/js--minesweeper/blob/main/minesweeper.gif)
+![MS RÖJ small size 8x8](https://github.com/chasacademy-sandra-larsson/js--minesweeper/blob/main/minesweeper.gif)
