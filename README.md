@@ -18,9 +18,9 @@ Vinner gör man när alla rutor, som inte innehåller minor, har avslöjats.
 Genom att studera siffrorna som anger hur många minor rutorna gränsar till kan man räkna ut vilka rutor som innehåller minor. För att lättare hålla reda på var minorna är kan rutorna markeras med flaggor. 
 Flaggorna kan placeras ut (och tas bort) genom att högerklicka på rutorna med muspekaren. 
 
-## Olika modes
+## Olika spellägen
 
-Det finns även tre olika topplistor beroende på hur stort minfält som används.
+En vidareutveckling är att en användare kan välja en av följande spellägen
 
 - Ett litet minfält består av minst 64 rutor och 16 % minor.
 - Ett mellanstort minfält består av minst 256 rutor och 18 % minor.
