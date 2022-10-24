@@ -17,3 +17,6 @@ Vinner gör man när alla rutor, som inte innehåller minor, har avslöjats.
 ## Markera minorna med flaggor ⚑
 Genom att studera siffrorna som anger hur många minor rutorna gränsar till kan man räkna ut vilka rutor som innehåller minor. För att lättare hålla reda på var minorna är kan rutorna markeras med flaggor. 
 Flaggorna kan placeras ut (och tas bort) genom att högerklicka på rutorna med muspekaren. 
+
+## Exempelbild 
+MS RÖJ small size 10x10 (https://github.com/chasacademy-sandra-larsson/js--minesweeper/blob/main/minesweeper.gif)
