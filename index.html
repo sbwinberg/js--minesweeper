@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
+    <title>Minesweeper</title>
+</head>
+<body>
+
+    <div class="board">
+        <div class="border">
+            <img src="./img/Minesweeper_1992.webp" class="mine-icon">
+            <div class="close">X</div>
+        </div>
+        <div class="menu">
+            <div class="game-options">
+                <p>Game</p>
+                <div class="dropdown">
+                    <div class="small">Small</div>
+                    <div class="medium">Medium</div>
+                    <div class="large">Large</div>
+                </div>
+            </div>
+
+            <div class="help-options">Help</div>
+        </div>
+        <div class="game-area">
+            <div class="header">
+                <div class="noOfMines"></div>
+                <div class="smiley-box"><img src="./img/smiley.png" class="smiley-icon"></div>
+                <div class="timer"></div>
+            </div>
+            <div class="minefield"></div>
+        </div>        
+    </div>
+
+    <script src="./js/app.js"></script>
+</body>
+</html>
